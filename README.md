@@ -10,7 +10,7 @@
 
 > Sass, sass lang.
 
-![A screenshot showing the first thing you will see after opening the project on browser](https://raw.githubusercontent.com/lucaswilliameufrasio/web-sass/assets/screenshot.jpg?token=AIDSBSFYK7CM5HBIRGRKBGK62QSJS)
+![A screenshot showing the first thing you will see after opening the project on browser](https://raw.githubusercontent.com/lucaswilliameufrasio/web-sass/assets/screenshot.png?token=AIDSBSCHLTUVVQTIKOOQ6U262QUOK)
 
 ---
 
