@@ -1,0 +1,16 @@
+// Este é um arquivo parcial
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+$primary-color: white;
+
+$mobileMax: 768px;
+
+
+// Map é utilizado para organizar valores
+// de uma determinada categoria da páǵina
+$font-weight: (
+  "regular": 400,
+  "medium": 500,
+  "bold": 700,
+);
