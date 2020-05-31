@@ -1,0 +1,18 @@
+// Mixin é um trecho de código
+// que você vai querer repetir
+// dentro dos seus estilos
+@mixin flexCenter($direction: column) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: $direction;
+}
+
+@mixin theme($background, $text) {
+  background-color: $background;
+  color: $text;
+}
+
+@function weight($weight-name) {
+  @return map-get($font-weight, $weight-name);
+}
